@@ -1,0 +1,48 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "telemetry.telemetryLevel": "off",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "enableTelemetry": false,
+    // GUI
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.revealIfOpen": true,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 100,
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "all",
+    "editor.guides.bracketPairs": true,
+    "editor.rulers": [
+        {
+            "column":80,
+            "color": "#500"
+        },
+        {
+            "column":100,
+            "color": "#900"
+        },
+    ],
+    // JS
+    "javascript.format.enable": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    // HTML
+    "html.format.enable": true,
+    "html.format.endWithNewline": false,
+    "html.format.wrapLineLength": 0,
+    "files.autoSave": "onFocusChange",
+    "breadcrumbs.enabled": true,
+    "debug.toolBarLocation": "docked",
+    "git.defaultCloneDirectory": "",
+    "debug.terminal.clearBeforeReusing": true,
+    "update.showReleaseNotes": false,
+    "extensions.ignoreRecommendations": true,
+    "window.zoomLevel": -1
+}
