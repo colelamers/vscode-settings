@@ -4,10 +4,11 @@
     "explorer.confirmDelete": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "enableTelemetry": false,
+    "update.mode": "none",
+    "workbench.enableExperiments": false,
     // GUI
     "workbench.colorTheme": "Default Dark+",
     "workbench.startupEditor": "none",
-    "workbench.activityBar.location": "hidden",
     "workbench.editor.revealIfOpen": true,
     "editor.wordWrap": "on",
     "editor.wordWrapColumn": 100,
@@ -44,5 +45,14 @@
     "debug.terminal.clearBeforeReusing": true,
     "update.showReleaseNotes": false,
     "extensions.ignoreRecommendations": true,
-    "window.zoomLevel": -1
+    "window.zoomLevel": -1,
+    "diffEditor.codeLens": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "explorer.confirmDragAndDrop": false,
+    "window.commandCenter": false,
+    "git.openRepositoryInParentFolders": "never"
 }
